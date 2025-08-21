@@ -1,4 +1,4 @@
-# Ex-01---Developing-a-Neural-Network-Regression-Model
+# Ex-01-Developing-a-Neural-Network-Regression-Model
 Developing a Neural Network Regression Model
 ### AIM
 To develop a neural network regression model for the given dataset.
